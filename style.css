@@ -31,6 +31,18 @@ section {
     border-radius: 8px;
 }
 
+p, h2 { color: #222; }
+
+.project a {
+    display: inline-block;
+    background: #0b8a2f;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
 #about p {
     max-width: 600px;
     margin: 0 auto;
