@@ -31,8 +31,13 @@ section {
     border-radius: 8px;
 }
 
+#about p {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
 @media (max-width: 600px) {
     .project-list {
-        flex-direction: culumn;
+        flex-direction: column;
     }
 }
