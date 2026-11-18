@@ -8,4 +8,4 @@ https://josephine79-lab.github.io/
 HTML, CSS, JavaScript (learning)
 
 ## Contact
-Email: josephinead@gmail.com
+Email: josephinead79@gmail.com
